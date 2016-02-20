@@ -1,2 +1,3 @@
-# reverseip
-Reverse IP checker
+`Hades.y2k`
+
+Usage : reverseip.py www.site.com
