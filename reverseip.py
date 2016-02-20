@@ -6,7 +6,7 @@
 import urllib2
 import json
 import socket
-import random
+#import random
 import sys
 import os
 
