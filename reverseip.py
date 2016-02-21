@@ -52,7 +52,7 @@ def parse(obj):
     print "[+] Domains : " + obj["domainCount"]
 
     output = open("output.txt", "w")
-    for domain, hl in obj["domainArray"]:
+    for domain, ar in obj["domainArray"]:
         output.write(domain + "\n")
     output.close()
     print "[+] Result is saved as output.txt in current directory"
